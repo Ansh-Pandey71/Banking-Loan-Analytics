@@ -64,7 +64,7 @@ Financial institutions manage thousands of loan records across multiple branches
 <br><br>
 Risk & Payment Analysis
 
-<img src="https://raw.githubusercontent.com/Ansh-Pandey71/banking-loan-analytics/main/Dashboard%20Screenshots/Risk%20Dashboard.png" width="1000">
+<img src="https://github.com/Ansh-Pandey71/Banking-Loan-Analytics/blob/main/Dashboard%20Screenshot/Risk%20&%20Payment%20Analysis.png?raw=true" width="1000">
 
 ---
 
