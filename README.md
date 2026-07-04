@@ -59,7 +59,7 @@ Financial institutions manage thousands of loan records across multiple branches
 <br><br>
 #Customer & Branch Analysis
 
-<img src="C:\Users\HP\OneDrive\Pictures\Screenshots\Screenshot 2026-07-02 193027.png" width="1000">
+<img src="https://github.com/Ansh-Pandey71/Banking-Loan-Analytics/blob/main/Dashboard%20Screenshot/Customer%20&%20Branvh%20Analysis.png?raw=true" width="1000">
 
 <br><br>
 Risk & Payment Analysis
