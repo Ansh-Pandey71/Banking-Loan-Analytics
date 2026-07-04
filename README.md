@@ -54,7 +54,7 @@ Financial institutions manage thousands of loan records across multiple branches
 
 ## 📈 Dashboard Preview
 #Executive Overview
-<img src="https://raw.githubusercontent.com/Ansh-Pandey71/banking-loan-analytics/main/Dashboard%20Screenshots/Executive%20Dashboard.png" width="1000">
+<img src="https://github.com/Ansh-Pandey71/Banking-Loan-Analytics/blob/main/Dashboard%20Screenshot/Executive%20Summary.png?raw=true" width="1000">
 
 <br><br>
 #Customer & Branch Analysis
